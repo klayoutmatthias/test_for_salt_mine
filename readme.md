@@ -1,10 +1,6 @@
 
-# A QR code PCell
+# Nothing to see here
 
-This PCell macro will provide a new library "QRCodeLib" with a 
-single PCell "QRCode". The latter is able to produce QR code for a 
-given text. It provides some options to adjust the appearance of the 
-QR code.
+This is a dummy repository to serve as a source for KLayout Git integration tests
 
-![QR code screenshot](docs/qr_pcell.png)
 
